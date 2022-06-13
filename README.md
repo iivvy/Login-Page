@@ -1,2 +1,2 @@
 # Projet
-projet pluridisciplinaire 1CS
+A simple login page using HTML, CSS and Javascript.
